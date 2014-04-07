@@ -14,8 +14,7 @@ namespace AnVlCMS.Controllers
         public ActionResult Index()
         {
             int i = 10;
-            int j = 100;
-            int k = 3;
+            int h = 5;
             return View();
         }
 
