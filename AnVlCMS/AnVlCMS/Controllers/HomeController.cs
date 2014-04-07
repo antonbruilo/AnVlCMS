@@ -22,15 +22,7 @@ namespace AnVlCMS.Controllers
         }
 
         public fVlad() {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-            int k=1230;
->>>>>>> 269dffbb17fd5dcc5213df5808fbcf05bb24dffe
-            
-=======
-            int k=1230;
->>>>>>> 5356c5622d3bf4e482cf40bee5554c1ebf9359b8
+        Фигня;
         }
 
         public fAnton() {
