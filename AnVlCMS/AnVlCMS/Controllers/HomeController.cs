@@ -21,5 +21,12 @@ namespace AnVlCMS.Controllers
          return View();
         }
 
+        public fVlad() {
+
+        }
+
+        public fAnton() {
+
+        }
     }
 }
