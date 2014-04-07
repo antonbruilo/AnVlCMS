@@ -22,7 +22,8 @@ namespace AnVlCMS.Controllers
         }
 
         public fVlad() {
-
+            int k=1230;
+            
         }
 
         public fAnton() {
