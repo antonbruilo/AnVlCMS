@@ -18,15 +18,16 @@ namespace AnVlCMS.Controllers
             double klo = 25.0;
             int e = 7;
 
-         return View();
+            return View();
         }
 
         public fVlad() {
-
+            
         }
 
         public fAnton() {
-
+            int Z = 0;
+            double t = 1;
         }
     }
 }
