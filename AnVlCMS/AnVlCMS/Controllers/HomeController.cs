@@ -15,6 +15,7 @@ namespace AnVlCMS.Controllers
         {
             int i = 10;
             int h = 5;
+            double klo = 25.0;
             return View();
         }
 
