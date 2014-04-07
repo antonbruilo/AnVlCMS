@@ -15,12 +15,10 @@ namespace AnVlCMS.Controllers
         {
             int i = 10;
             int h = 5;
-<<<<<<< HEAD
             double klo = 25.0;
-=======
             int e = 7;
->>>>>>> 00cb5fcab180598280ac483286ec6e2662d6b70f
-            return View();
+
+         return View();
         }
 
     }
