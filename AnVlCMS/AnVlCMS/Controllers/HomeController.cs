@@ -13,7 +13,8 @@ namespace AnVlCMS.Controllers
 
         public ActionResult Index()
         {
-            //Привет Мир!
+            int i = 10;
+
             return View();
         }
 
